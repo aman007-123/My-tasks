@@ -1,0 +1,8 @@
+name = ['carry', 'john', 'mike', 'andrew', 'simon', 'peter', 'karl', 'ninya']
+Id = [2, 1, 0, 3, 4, 6, 5, 7]
+
+name.sort()
+print(name)
+
+Id.sort()
+print(Id)
