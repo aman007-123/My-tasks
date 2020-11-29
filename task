@@ -9,19 +9,18 @@ print(name)
 Id.sort()
 print(Id)
 
+
+
 #task program 2:
+
 import re 
-
 dict = {} 
-
 def uniqueWord(Word): 
 
 	if Word in dict: 
 
 		dict[words] += 1
-
 	else: 
-
 		dict.update({words: 1}) 
 
 if __name__ == '__main__': 
